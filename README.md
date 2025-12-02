@@ -5,7 +5,7 @@ Clone o repositório:
 git clone https://github.com/itsuki-ALMA/ml-neural-network-python.git
 
 
-Instale dependências (se existirem):
+Instale dependências:
 
 pip install -r requirements.txt
 
